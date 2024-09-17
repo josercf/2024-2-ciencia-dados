@@ -1,0 +1,27 @@
+[
+  {
+    "dia": "segunda",
+    "disciplina": "Ciência de dados",
+    "professor": "José Romualdo"
+  },
+  {
+    "dia": "terça",
+    "disciplina": "Modelagem de Banco de Dados",
+    "professor": "Hélio"
+  },
+  {
+    "dia": "quarta",
+    "disciplina": "Aprendizado de Máquina",
+    "professor": "Solange"
+  },
+  {
+    "dia": "quinta",
+    "disciplina": "Segurança da Informação",
+    "professor": "Fábio"
+  },
+  {
+    "dia": "sexta",
+    "disciplina": "Aprendizado de Máquina",
+    "professor": "Solange"
+  }
+]
